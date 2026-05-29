@@ -1,0 +1,8 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+gem "github-pages", group: :jekyll_plugins
+
+title: My internship in santiago
+description : well I have finally achieved having an internship, so I wanted to share some with you all ehe
