@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: nav
 title: About
+nav: true
 permalink: /about
 ---
 
