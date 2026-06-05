@@ -1,8 +1,8 @@
 <nav>
-{% for p in site.pages %}
-  {% if p.nav %}
-    <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-  {% endif %}
+{% for item in site.data.nav %}
+  <a href="{{ item.url | relative_url }}">
+    {{ item.title }}
+  </a>
 {% endfor %}
 </nav>
 
