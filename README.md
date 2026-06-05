@@ -1,8 +1,4 @@
----
-layout: nav
-title: Home
-nav: true
----
+
 
 # I love Modules
 
