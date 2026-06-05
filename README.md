@@ -1,3 +1,9 @@
+---
+layout: nav
+title: Home
+nav: true
+---
+
 # I love Modules
 
 Here's going to be my website, I'll prolly post about my research, about my internships and about stuff I find appealing, interesting or even funny.
