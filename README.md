@@ -4,12 +4,3 @@ Here's going to be my website, I'll prolly post about my research, about my inte
 
 A lot is not even yet under construction, so don't mind the dust !
 
-
-<ul>
-  {% for post in _internship %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
