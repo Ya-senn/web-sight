@@ -1,5 +1,7 @@
-<nav style="background:white; color:black; padding:10px;">
+<nav style="margin-bottom:20px; background:transparent;">
 {% for item in site.data.nav %}
-  <a href="{{ item.url }}">{{ item.title }}</a>
+  <a href="{{ item.url | relative_url }}" style="color:#00ff00; margin-right:10px;">
+    {{ item.title }}
+  </a>
 {% endfor %}
 </nav>
