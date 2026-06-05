@@ -1,9 +1,13 @@
-<nav>
+<nav style="
+  background: transparent;
+  border: none;
+  margin: 0 0 15px 0;
+  padding: 0;
+">
 {% for item in site.data.nav %}
-  <a href="{{ item.url | relative_url }}">
+  <a href="{{ item.url | relative_url }}"
+     style="color:#00ff00; margin-right:15px; text-decoration:none;">
     {{ item.title }}
   </a>
 {% endfor %}
 </nav>
-
-<hr>
