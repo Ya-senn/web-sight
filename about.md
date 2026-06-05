@@ -1,5 +1,5 @@
 ---
-layout: nav
+layout: default
 title: About
 nav: true
 permalink: /about
