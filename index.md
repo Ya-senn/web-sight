@@ -13,7 +13,7 @@ bla bla bla
 {% for post in site.posts %}
   <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <p>{{ post.excerpt }}</p>
+    <p>{{ post.content | truncate : 200 }}</p>
   </li>
 {% endfor %}
 </ul>
