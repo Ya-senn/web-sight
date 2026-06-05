@@ -1,4 +1,5 @@
-<nav>
-DEBUG:
-{{ site.data.nav | inspect }}
+<nav style="background:white; color:black; padding:10px;">
+{% for item in site.data.nav %}
+  <a href="{{ item.url }}">{{ item.title }}</a>
+{% endfor %}
 </nav>
