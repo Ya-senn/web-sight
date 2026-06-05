@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-nav : true
+nav: true
 ---
 
 # yokoso
