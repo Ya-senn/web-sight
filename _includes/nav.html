@@ -1,0 +1,9 @@
+<nav>
+{% for p in site.pages %}
+  {% if p.nav == true %}
+    <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+  {% endif %}
+{% endfor %}
+</nav>
+
+<hr>
