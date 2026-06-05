@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
 nav: true
-permalink: /about
 ---
 
 bla bla bla
