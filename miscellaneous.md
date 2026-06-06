@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
+permalink: /misc/
 ---
 
 Here I'll post some weird stuff lol
