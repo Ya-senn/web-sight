@@ -8,13 +8,15 @@ Here I'll post some weird stuff lol
 
 
 # (Exhaustive) List of Mathematical department cities I have pooped in :
-
-  - IMO, Orsay
-  - IMAG, montpellier
-  - IRMA, strasbourg
-  - Jussieu, Paris
-  - LMBP, Amiens
-  - ex-MATEMATEs, Bologna
+  
+  * France :
+    - IMO, Orsay
+    - IMAG, montpellier
+    - IRMA, strasbourg
+    - Jussieu, Paris
+    - LMBP, Amiens
+  * Italia :
+    - ex-MATEMATEs, Bologna
 
 
 # List of languages I'm trying to learn :
@@ -41,11 +43,11 @@ Here I'll post some weird stuff lol
 
 # List of buzzwords that'll get my attention :
 
-  - Modules
+  - *Modules*
   - Algebra
   - Isomorphism
   - Revolution
   - Diagrams
-  - Algebraic + whatever
+  - **Algebraic** + whatever
   - any food tbh
   - dorohedoro
