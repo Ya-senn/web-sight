@@ -3,6 +3,9 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
+
+{% include nav.html %}
+
 <h1>Latest Posts</h1>
 
 <ul>
