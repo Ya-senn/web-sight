@@ -17,6 +17,8 @@ Here I'll post some weird stuff lol
     - LMBP, Amiens
   * Italia :
     - ex-MATEMATEs, Bologna
+  * Spain:
+    - Facultades de Mathematica, Santiago de compostela 
 
 
 # List of languages I'm trying to learn :
