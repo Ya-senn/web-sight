@@ -4,6 +4,8 @@ title: Ressources
 permalink: /ress/
 ---
 
+{% include nav.html %}
+
 # list of books I looked at/through, during my internship :
   - Benoit Fresse : Higher Operads
   - Dotsenko and Khoroshkin : Character formlas for the operad of two compatible brackets and for the bihamiltonian operad
